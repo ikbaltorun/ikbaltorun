@@ -16,4 +16,4 @@ Karabük Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. B
 * **DevOps Pipeline:** Docker, Jenkins ve SonarQube entegrasyonu ile CI/CD süreç yönetimi.
 
 ---
-**İletişim:** ikbaltorun@email.com | [LinkedIn] https://www.linkedin.com/in/ikbaltorun/
+**İletişim:** ikbaltorunn@email.com | [LinkedIn] https://www.linkedin.com/in/ikbaltorun/
