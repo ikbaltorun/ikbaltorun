@@ -1,6 +1,5 @@
 # İkbal Torun
 **Karabük Üniversitesi Yazılım Mühendisliği**
-**Sakarya**
 
 ---
 
