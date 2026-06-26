@@ -1,5 +1,5 @@
 # İkbal Torun
-**Software Engineering Student @ Karabük University**
+**Software Engineering Student Karabük University**
 
 ---
 
