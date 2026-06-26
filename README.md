@@ -12,8 +12,8 @@ Karabük Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. B
 * **Teknolojiler:** Unity 6, Docker, Jenkins, SonarQube
 
 ### Öne Çıkan Projeler
-* **Dijital Davetiye:** Modern web teknolojileriyle geliştirilmiş, LCV entegreli etkinlik yönetim sistemi.
-* **DevOps Pipeline:** Docker, Jenkins ve SonarQube entegrasyonu ile CI/CD süreç yönetimi.
+* **Real-Time Emotion Recognition (Python):** OpenCV ve derin öğrenme kütüphaneleri kullanılarak, kamera görüntüsü üzerinden gerçek zamanlı duygu analizi (mutluluk, durgunluk, üzgünlük vb.) yapan ve doğruluk yüzdesi döndüren görüntü işleme projesi.
+* **DevOps Pipeline & CI/CD:** Docker, Jenkins ve SonarQube kullanılarak uçtan uca otomatize edilmiş CI/CD süreç yönetimi; kod kalitesi ve dağıtım otomasyonu üzerine.
 
 ---
 **İletişim:** ikbaltorunn@email.com | [LinkedIn] https://www.linkedin.com/in/ikbaltorun/
